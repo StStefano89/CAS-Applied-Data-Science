@@ -1,4 +1,4 @@
-# CAS-Applied-Data-Science
+# CAS Applied Data Science
 
 Repository for the course material and projects of the CAS Applied Data Science at the Univerity of Bern.
 
